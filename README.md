@@ -11,7 +11,7 @@
 <p align="center">
 <a href="https://https://www.linkedin.com/in/syed-muhammad-saad-urf-sadi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="aksia" height="30" width="40" /></a>
  <a href = "mailto: saadbukhari790@gmail.com"><img align="center" src="https://simpleicons.org/icons/gmail.svg" height="30" width="40" /></a>
-  <a href = "https://www.instagram.com/in/_.x_bukhari"><img align="center" src="https://simpleicons.org/icons/instagram.svg" height="30" width="40" /></a>
+  <a href = "https://www.instagram.com/_.x_bukhari/"><img align="center" src="https://simpleicons.org/icons/instagram.svg" height="30" width="40" /></a>
   
 </p>
 </p>
